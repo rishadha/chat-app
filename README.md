@@ -1,4 +1,4 @@
-Certainly! Here's a README file template you can use to document your project which uses Socket.IO for real-time messaging and Daisy UI for the frontend, built on the MERN stack:
+Certainly! Here's a README file you can use this for real-time messaging and Daisy UI for the frontend, built on the MERN stack:
 
 
 # MERN Real-Time Chat App
